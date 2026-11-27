@@ -1,0 +1,13 @@
+.git
+.gitignore
+.dockerignore
+Dockerfile
+docker-compose.yaml
+.venv
+__pycache__
+.env
+.env.example
+tests
+pytest.ini
+.flake8
+requirements-dev.txt
